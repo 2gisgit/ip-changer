@@ -5,7 +5,9 @@
 오랜판에 파일 탐색기 좀 보다가 이렇게 만들어 놓은게 있길래 올립니다.
 
 # how to use
-`pip install wmi, requests, getmac`
+```
+pip install wmi, requests, getmac
+```
 
 # feature
 변경 가능한 것
