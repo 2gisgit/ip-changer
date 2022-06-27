@@ -4,7 +4,6 @@ from tkinter import messagebox
 import socket as s
 import getmac
 import os
-import requests
 import subprocess
 
 if os.name != "nt":
