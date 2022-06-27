@@ -6,7 +6,7 @@
 
 # how to use
 ```
-pip install wmi, requests, getmac
+pip install wmi, getmac
 ```
 
 # feature
